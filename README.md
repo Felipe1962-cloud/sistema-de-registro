@@ -7,3 +7,5 @@ Para ejecutar sistema, debes poner:
 ` ` `npm install react` ` ` 
 
 Sistema de Registro 2
+
+La "Mama MIA"
